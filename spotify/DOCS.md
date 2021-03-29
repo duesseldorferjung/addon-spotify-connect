@@ -25,6 +25,8 @@ comparison to installing any other Home Assistant add-on.
 
 **Note**: _Remember to restart the add-on when the configuration is changed._
 
+If you want to use HDMI Output e.g. on Raspberry PI 4, change the output from Default to Built-in Audio Stero
+
 Example add-on configuration:
 
 ```yaml
